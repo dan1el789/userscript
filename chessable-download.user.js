@@ -5,6 +5,7 @@
 // @description  adds option to download pgn and video to chessable
 // @author       You
 // @match        https://www.chessable.com/course/*/*
+// @license      MIT
 // @grant        none
 // ==/UserScript==
 
